@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(blue 0%, skyblue 30%, aqua 100%);
+    background-size: cover;
+    font-family: 'Inconsolata', monospace;
+    
+}
